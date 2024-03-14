@@ -1,0 +1,22 @@
+*{
+ 
+    font-family:sans-serif;
+}
+
+h1{
+    color:aquamarine
+}
+
+h1.red{
+    color: red;
+}
+
+h2#main{
+    background-color: black;
+}
+
+section{
+    border: solid thin blue;
+    margin: 4px;
+    padding: 12px;
+}
